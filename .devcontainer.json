@@ -1,0 +1,12 @@
+{
+    "image": "ghcr.io/sambyeol/flutter-devcontainer:3.7",
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "dart-code.dart-code@3.104.0",
+          "dart-code.flutter@3.104.0"
+        ]
+      }
+    }
+  }
+  
